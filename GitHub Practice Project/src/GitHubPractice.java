@@ -7,7 +7,7 @@ public class GitHubPractice
 		
 		//Add a line about modifying it at school, then upload it
 		// back to GitHub.
-
+		System.out.println("I edited this at school of Friday 8/22/14");
 		//Open this at home and add a line about modifying it there.
 		//Update it on GitHub.
 		
